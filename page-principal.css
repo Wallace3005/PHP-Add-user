@@ -1,0 +1,101 @@
+body{
+    background: rgb(255, 255, 255);
+    margin-top: 7rem;
+    font: 700 0.9rem Archivo;
+    
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+    margin: 2px;
+    align-self: center;
+    height: 200px;
+    
+}
+form {
+    margin: 10px auto;
+    width: 450px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+a:link { 
+ text-decoration:none; 
+ color: black;
+
+} 
+.button1{
+    width: 6rem;
+    height: 2rem;
+    background: rgb(142, 235, 204);
+    color: black;
+    border: none;
+    border-radius: .2rem;
+    cursor: pointer;
+    font: 700 0.9rem Archivo;
+    align-items: center;
+    justify-content:center;
+    transition: background 0.2s;
+    margin:20px 20px auto;
+    
+}
+.button1:hover{
+    background-color: rgb(67, 245, 147);
+    border:none
+}
+.button2{
+    width: 6rem;
+    height: 2rem;
+    background: rgb(192, 235, 142);
+    color: black;
+    border: none;
+    border-radius: .2rem;
+    cursor: pointer;
+    font: 700 0.9rem Archivo;
+    align-items: center;
+    justify-content:center;
+    transition: background 0.2s;
+    margin:20px 10px auto;
+}
+.button2:hover{
+    background-color: rgb(198, 250, 76);
+    border:none
+}
+.button3{
+    width: 6rem;
+    height: 2rem;
+    background: rgb(142, 156, 235);
+    color: black;
+    border: none;
+    border-radius: .2rem;
+    cursor: pointer;
+    font: 700 0.9rem Archivo;
+    align-items: center;
+    justify-content:center;
+    transition: background 0.2s;
+    margin:20px 20px auto;
+}
+.button3:hover{
+    background-color: rgb(75, 130, 250);
+    border:none
+}
+.button4{
+    width: 6rem;
+    height: 2rem;
+    background: rgb(142, 142, 235);
+    color: black;
+    border: none;
+    border-radius: .2rem;
+    cursor: pointer;
+    font: 700 0.9rem Archivo;
+    align-items: center;
+    justify-content:center;
+    transition: background 0.2s;
+    margin:20px 20px auto;
+}
+.button4:hover{
+    background-color: rgb(209, 207, 207);
+    border:none
+}
